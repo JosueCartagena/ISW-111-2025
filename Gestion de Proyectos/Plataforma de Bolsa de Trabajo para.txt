@@ -1,0 +1,25 @@
+Plataforma de Bolsa de Trabajo para Jovenes
+## Introducción: 
+Una organización sin fines de lucro desea crear una plataforma que conecte a jóvenes de entre 18 y 25 años con oportunidades de empleo, prácticas y formación técnica, especialmente para aquellos con pocas oportunidades.
+
+## Problemática:
+-Los jóvenes no saben dónde buscar trabajos adecuados a su perfil.
+-Las empresas no confían en los postulantes jóvenes sin experiencia previa.
+-Hay falta de seguimiento y medición del impacto de las oportunidades ofrecidas.
+
+## Objetivo general:
+Desarrollar un sistema web que permita la gestión digital de pacientes, consultas médicas, y agendas, facilitando el acceso rápido a la información médica y mejorando la eficiencia administrativa.
+
+### Objetivos específicos:
+1.Facilitar el contacto de las empresas para los Jovenes.
+2.Seperar los distintos tipos de trabajos en sectores de categorias.
+3.Garantizar la informacion del puesto de trabajo para los Jovenes.
+4.Ofrecer recomendaciones de tipos de CV para los Jovenes mostrando todas sus aptitudes y años de experiencia.
+
+## Funcionalidades sugeridas:
+-Registro de jóvenes con CV y habilidades destacadas.
+-Registro de empresas y publicación de vacantes.
+-Buscador de empleos con filtros por área, ubicación y tipo de empleo.
+-Aplicación a vacantes con seguimiento del estado.
+-Panel de administración con métricas de participación e impacto.
+-Chat interno o contacto seguro entre empresa y postulante.
